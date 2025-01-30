@@ -21,3 +21,31 @@ body {
     height: 52px;
     margin: 11px;
 }
+
+.formClass{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    
+}
+
+.inputFeild{
+    width: 399px;
+    height: 38px;
+    margin-right: 12px;
+    border-radius: 6px;
+    border-color: #D1D5DB;
+}
+
+.inputFeild::placeholder{
+    padding-left: 13px;
+}
+
+.addIngredientBtn{
+    background-color: black;
+    height: 38px;
+    width: 183px;
+    color: #FAFAF8;
+    border-radius: 6px;
+    border-color: black;
+}
