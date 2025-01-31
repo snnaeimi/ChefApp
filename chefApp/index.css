@@ -28,7 +28,7 @@ body {
     margin-top: 70px;
     
 }
-
+ 
 .inputFeild{
     width: 399px;
     height: 38px;
@@ -37,7 +37,7 @@ body {
     border-color: #D1D5DB;
 }
 
-.inputFeild::placeholder{
+.inputFeild::placeholder{ 
     padding-left: 13px;
 }
 
